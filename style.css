@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    
+    
+}
+h1{
+    font-size:40px;
+    font-weight: bold;
+    color:blue;
+}
+.line{
+    height:6px;
+    width:1000px;
+    background-color:blueviolet;
+    margin:8px auto;
+}
+#apps{
+    background:linear-gradient(aqua 0%, greenyellow 100%);
+}
+#games{
+    background:linear-gradient(blue 0%, red 100%);
+}
+#chatbot{
+    background:linear-gradient(orange 0%, green 100%);
+}
